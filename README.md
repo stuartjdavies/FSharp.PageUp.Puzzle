@@ -1,3 +1,3 @@
 # FSharp.PageUp.Puzzle
 
-See Puzzle.pdf for Puzzle description
+See the file Puzzle.pdf in root folder for the Puzzle description
