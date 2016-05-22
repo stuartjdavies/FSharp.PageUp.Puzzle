@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.PageUp.Puzzle", "FSharp.PageUp.Puzzle\FSharp.PageUp.Puzzle.fsproj", "{065648BE-A111-495C-BC80-57827B13163B}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.PageUp.Puzzle.Console", "FSharp.PageUp.Puzzle.Console\FSharp.PageUp.Puzzle.Console.fsproj", "{616A77C6-3043-49FE-B404-5666BE19566C}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.PageUp.Puzzle.Tests", "FSharp.PageUp.Puzzle.Tests\FSharp.PageUp.Puzzle.Tests.fsproj", "{9E0D37E7-5060-48DB-A966-C30D3E6A63CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{FBC466A9-FD4E-4788-A398-9D66DD26DBFF}"
+	ProjectSection(SolutionItems) = preProject
+		Puzzle.pdf = Puzzle.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
